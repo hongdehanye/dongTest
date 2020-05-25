@@ -3,7 +3,9 @@ package com.dongbaode.cn;
 public class Dong {
     private String name;
     private Integer age;
-     private Integer count;
+    private Integer count;
+    private Integer countc;
+
 
     public String getName() {
         return name;
