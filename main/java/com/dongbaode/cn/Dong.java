@@ -5,6 +5,8 @@ public class Dong {
     private Integer age;
     private String dongbaode123;
     private String dongwang;
+    private String dongdong;
+
 
 
     public String getName() {
