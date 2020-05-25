@@ -4,6 +4,7 @@ public class Dong {
     private String name;
     private Integer age;
     private Integer count;
+    private Integer countc;
     private Integer countb;
 
     public String getName() {
