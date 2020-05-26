@@ -5,7 +5,8 @@ public class SpringDemo {
     private String num;
     private Integer age;
 
-    private String namebbbccc;
+    private String namebbbcccsss;
+
 
     private String nameaaa;
 
