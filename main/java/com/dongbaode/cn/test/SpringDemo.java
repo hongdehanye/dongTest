@@ -8,7 +8,7 @@ public class SpringDemo {
 
     private String sexnanupdateqqq;
 
-    private String sexnvupdate;
+    private String sexnvupdateqqq;
 
 
     private String nameaaa;
