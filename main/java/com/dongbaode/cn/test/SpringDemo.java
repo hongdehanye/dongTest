@@ -4,6 +4,7 @@ public class SpringDemo {
 
     private String num;
     private Integer age;
+    private String name;
 
     public Integer getAge() {
         return age;
