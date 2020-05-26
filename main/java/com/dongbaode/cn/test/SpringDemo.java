@@ -6,7 +6,7 @@ public class SpringDemo {
     private Integer age;
 
 
-    private String sexnanupdateqqq;
+    private String sexnanupdateqqqzzzzz;
 
     private String sexnvupdateqqq;
 
