@@ -4,7 +4,11 @@ public class SpringDemo {
 
     private String num;
     private Integer age;
+
     private String namebbb;
+
+    private String nameaaa;
+
 
     public Integer getAge() {
         return age;
